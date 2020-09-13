@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1462222975 source:e:\dxball!!!\imain.cpp
+	"iGraphics.h"
+
+1464427052 e:\dxball!!!\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+
+1465410614 source:d:\dxball!!!\imain.cpp
+	"igraphics.h"
+	<stdio.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1465320638 d:\dxball!!!\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465378399 source:c:\users\user\desktop\dxball!!!\imain.cpp
+	"igraphics.h"
+	<stdio.h>
+	<time.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1465324238 c:\users\user\desktop\dxball!!!\igraphics.h
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl/glaux.h>
+	<math.h>
+	"TextureList.h"
+
+1465332368 c:\users\user\desktop\dxball!!!\texturelist.h
+	"texture.h"
+
+1449445884 c:\users\user\desktop\dxball!!!\texture.h
+
+1465328768 d:\dxball!!!\texturelist.h
+	"texture.h"
+
+1449442284 d:\dxball!!!\texture.h
+
